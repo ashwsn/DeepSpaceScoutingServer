@@ -1,5 +1,5 @@
-# ScoutingServer
-Server for scouting app for the FIRST Robotics Competition.
+# Deep Space Scouting Server
+Server for scouting app for the 2019 FIRST Robotics Competition.
 
 Runs with Python3 on Linux, uses Bluetooth for data transfer.
 
